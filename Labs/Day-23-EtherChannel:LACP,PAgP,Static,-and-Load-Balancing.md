@@ -1,4 +1,4 @@
-# Day 23 - EtherChannel: LACP, PAgP, Static, and Load Balancing
+# Day 23 - Day-23-EtherChannel-LACP-PAgP-Static-and-Load-Balancing.md
 
 ## Overview
 
